@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permission Demo</string>
+    <string name="pick_image_button">Pick image</string>
+    <string name="check_permission_checkbox">Check permission</string>
+</resources>
